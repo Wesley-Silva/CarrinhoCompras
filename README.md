@@ -7,7 +7,10 @@ A Demo "Carrinho de Compras" simula um dos elementos centrais em aplicações de
 
 
 As *[Minimal APIs](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/min-web-api?view=aspnetcore-7.0&tabs=visual-studio?target=_blank)* são uma abordagem simplificada para criar Web APis de forma rápida com o .Net Core. 
-Nessa construção da demo Carrinho de Compra, colocamos em prática a criar Minimal APi, utilizando cenários mais comuns de aplicação, como por exemplo os aplicação distribuída ou microserviços.
+Nessa construção da demo Carrinho de Compra, colocamos em prática a criar Minimal APi, utilizando cenários mais comuns de aplicação distribuída ou microserviços.
+
+Abordaremos os seguintes: Token(JWT), Entity Framework(PostgreSQL), Fluent Validation, Bulk Insert | Add Range,
+Manipulação de rotas | Pagination | MapGroupt, Filter, Testes unitários e Gateway. 
 
 
 # Índice
